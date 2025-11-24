@@ -1,0 +1,4 @@
+build/* linguist-vendored
+web/* linguist-vendored
+
+*.dart linguist-detectable=true
